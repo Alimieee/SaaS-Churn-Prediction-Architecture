@@ -1,4 +1,4 @@
-<![CDATA[# 📊 SaaS Churn Early Warning Architecture
+# 📊 SaaS Churn Early Warning Architecture
 
 > An end-to-end Machine Learning pipeline and cross-platform Flutter dashboard engineered to predict, filter, and visualize SaaS customer churn risk.
 
@@ -211,4 +211,3 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   Built with 🐍 Python & 💙 Flutter
 </p>
-]]>
